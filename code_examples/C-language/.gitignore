@@ -1,0 +1,75 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+obj/
+bin/
+build/
+dist/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Log files
+*.log
+
+# Documentation generated files
+docs/html/
+docs/latex/
+docs/man/
+
+# Test results
+test_results/
+coverage/
+
+# Valgrind output
+*.valgrind
+vgcore.*
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.temp
+*.temporary
+
